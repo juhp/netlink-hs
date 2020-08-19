@@ -1,7 +1,7 @@
 Name:                netlink
 Version:             1.1.2.0
 Synopsis:            Netlink communication for Haskell
-Description:         Library to comminicate with Linux kernel via Netlink
+Description:         Library to communicate with Linux kernel via Netlink
 Homepage:            https://github.com/Ongy/netlink-hs
 License:             BSD3
 License-file:        LICENSE
